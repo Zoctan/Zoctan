@@ -1,3 +1,5 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=zoctan&show_icons=true&icon_color=5094F0&text_color=&bg_color=ffffff&hide_title=true" />
+
 ### Hi there 👋
 
 <!--
@@ -5,7 +7,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on TV station.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
